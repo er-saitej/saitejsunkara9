@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @saitejsunkara9 "Sai Tej Sunkara."
-- 👀 I’m interested in Software Engineering, Algorithms, Data Structures and Web Development.
-- 🌱 I’m currently learning Algorithms and Data Structures using CodeC++.
-- 💞️ I’m looking to collaborate on SDE Projects.
-- 📫 You can reach me at saitejsunkara9@gmail.com / linkedin.com/in/saitejsunkara9
-
-<!---
-saitejsunkara9/saitejsunkara9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi. I'm Sai Tej Sunkara and welcome to Engineering laboratory.
+- Creating Arc Reactor using Algorithms and  Data Structures since 2020.
+- I use C++ since it is the fastest language that can communicate to software as well as hardware. Engineering needs C++.
+- Will collaborate with anyone who is having real interest in Engineering and wanting to upgrade this world.
+- Drop your messages into my box | saitejsunkara9@gmail.com | https://linkedin.com/in/saitejsunkara9
